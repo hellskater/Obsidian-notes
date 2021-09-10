@@ -25,3 +25,4 @@
 - NO REFRESHING IN REACT
 - Optional chaining
 - Functions is the back-end and src is the front-end
+- Check to see if git hub works
