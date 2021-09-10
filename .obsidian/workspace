@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "f0161220b58acb16",
+    "type": "split",
+    "children": [
+      {
+        "id": "6777462e26b8d4c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React Projects/Amazon-clone.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc1e1be8b9375f1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c094a42388354e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d45b23b422031dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ca88053e5db24dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8399b99f989709f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b378b78195f4f1e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "545499c9cfeaf4fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Projects/Amazon-clone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6777462e26b8d4c7",
+  "lastOpenFiles": [
+    "React Projects/Amazon-clone.md",
+    "Learn Hack/Book summaries/Social engineering - The art of human hacking.md"
+  ]
+}
