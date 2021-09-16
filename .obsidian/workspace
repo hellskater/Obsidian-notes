@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React Projects/Amazon-clone.md",
+            "file": "React Projects/Instagram-clone-firebase.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Projects/Amazon-clone.md",
+                "file": "React Projects/Instagram-clone-firebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,11 @@
   },
   "active": "6777462e26b8d4c7",
   "lastOpenFiles": [
+    "React Projects/Instagram-clone-firebase.md",
+    "React Projects/Tinder-clone.md",
     "React Projects/Amazon-clone.md",
+    "React Projects/Tiktok-clone.md",
+    "Untitled.md",
     "Learn Hack/Book summaries/Social engineering - The art of human hacking.md"
   ]
 }

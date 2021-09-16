@@ -26,3 +26,6 @@
 - Optional chaining
 - Functions is the back-end and src is the front-end
 - Check to see if git hub works
+
+# Bugs
+- Can't resolve 'firebase'. Solution `npm i firebase@^8.10.0`
