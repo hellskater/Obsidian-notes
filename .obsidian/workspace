@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React Projects/Instagram-clone-firebase.md",
+            "file": "React Projects/Whatsapp-firebase.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Projects/Instagram-clone-firebase.md",
+                "file": "React Projects/Whatsapp-firebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "6777462e26b8d4c7",
   "lastOpenFiles": [
+    "React Projects/Whatsapp-firebase.md",
     "React Projects/Instagram-clone-firebase.md",
     "React Projects/Tinder-clone.md",
     "React Projects/Amazon-clone.md",

@@ -7,6 +7,15 @@
 - Create database in firestore
 - `npm i firebase`
 - `npm i react-instagram-embed`
+---
+#### MERN  Integration
+- `npm init`
+- `npm i express mongoose cors pusher`
+- Go to monogodb.com and create new project and database
+- Go to pusher.com and create an app
+- Create user in mongodb, password `R1eccsFsFRcz7JQn`
+- In front end `npm i image-file-to-base64-exif` and `npm i axios` and `npm i pusher-js`
+- In backend `npm i pusher`
 
 # Tips
 - Color zilla chrome extension
@@ -19,3 +28,5 @@
 - Firebase database
 - Firebase user authentication
 - Firebase storage to upload images and stuff
+---
+- Pusher in the mern stack for real time database
