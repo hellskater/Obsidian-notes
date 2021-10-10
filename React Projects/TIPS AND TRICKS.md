@@ -1,0 +1,3 @@
+- Use CSS modules to prevent styles of one compnent to other because of similar classname
+- useHooks.com
+- useRef and custom hooks

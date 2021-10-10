@@ -1,0 +1,7 @@
+- `margin: 0 auto` to center an element
+- Inline elements like links and strong tags don't get effected by heigh or width or margin-top or bottom, but margin-right and left will work.
+- Span is an inline element which doesn't have any predefined semantic meaning like em or strong
+- Change the color of links on hover and focus
+- `display: inline-block` gives block properties to inline elements like links, so that their expansion doesn't overlap but take into consideration the other content.
+- Always use padding for buttons, not height and width. `padding: 15px 30px` 1:2 ratio.
+- 

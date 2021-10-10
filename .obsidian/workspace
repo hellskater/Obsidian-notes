@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React Projects/Whatsapp-firebase.md",
+            "file": "React Projects/freeCodeCamp GraphQL.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Projects/Whatsapp-firebase.md",
+                "file": "React Projects/freeCodeCamp GraphQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,15 @@
   },
   "active": "6777462e26b8d4c7",
   "lastOpenFiles": [
-    "React Projects/Whatsapp-firebase.md",
+    "React Projects/freeCodeCamp GraphQL.md",
     "React Projects/Instagram-clone-firebase.md",
-    "React Projects/Tinder-clone.md",
-    "React Projects/Amazon-clone.md",
-    "React Projects/Tiktok-clone.md",
     "Untitled.md",
-    "Learn Hack/Book summaries/Social engineering - The art of human hacking.md"
+    "CSS Tricks.md",
+    "React Projects/TIPS AND TRICKS.md",
+    "React Projects/Linked In (Sonny).md",
+    "React Projects/Amazon-clone.md",
+    "React Projects/Tinder-clone.md",
+    "React Projects/Tiktok-clone.md",
+    "React Projects/Whatsapp-firebase.md"
   ]
 }
